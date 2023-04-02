@@ -14,7 +14,7 @@
 
 - 서버에서 하는 것 없이 파일을 그냥 그대로 웹 브라우저에 전달
 
-![Untitled](%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%201%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%2065b1f5e36791419991d8ef3a264644a8/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/127593340/227830301-a45624a2-8ef5-4fe3-854b-69a9eec06d59.png)
 
 ### 2. MVC와 템플릿 엔진
 
@@ -24,7 +24,7 @@
     - View: 화면 그리는 데 집중
     - Model&Controller: 비즈니스 로직, 내부 관련 처리 집중
 
-![Untitled](%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%201%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%2065b1f5e36791419991d8ef3a264644a8/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/127593340/227830296-d3d45b34-46e9-4cb5-bdfd-7e2bd1c8c95e.png)
 
 ### 3. API
 
