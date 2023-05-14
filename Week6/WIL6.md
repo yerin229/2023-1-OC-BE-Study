@@ -58,6 +58,7 @@
 - 인간은 동물과 생명체 상속, 생명체들은 인간과 동물 상속
 - 각각 가능한 기능들을 인터페이스로 구현
 
+
 ## <**static과 final 그리고 불변 객체>**
 
 1. static
@@ -91,5 +92,3 @@
         - 협업시 다른 사람이 개발한 함수를 위험없이 이용 가능
     - GC의 성능 높을 수 있음
         - 컨테이너는 컨테이너가 참조하는 가장 젊은 객체들보다 더  젊음 ⇒ GC 수행시 컨테이너 하위의 불변객체들 skip
-
-[https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fsteady-snail.tistory.com%2Ffavicon.ico&blockId=10cf2b09-ef67-4b0b-afc7-b0d46ef0c212&width=32](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fsteady-snail.tistory.com%2Ffavicon.ico&blockId=10cf2b09-ef67-4b0b-afc7-b0d46ef0c212&width=32)
